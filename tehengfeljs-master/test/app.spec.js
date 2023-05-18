@@ -1,4 +1,12 @@
-
+/*
+* File: app.spec.js
+* Author: Nedved Balázs
+* Copyright: 2023, Nedved Balázs
+* Group: Szoft 1/1/N
+* Date: 2023-04-04
+* Github: https://github.com/fasded19/
+* Licenc: GNU GPL
+*/
 describe('input test', () => {
   it('in: "afgjhgf"', () => {
       let act = isGoodInput("afgjhgf");
